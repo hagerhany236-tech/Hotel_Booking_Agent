@@ -195,14 +195,4 @@ At the end of each confirmed booking, the agent extracts guest preferences from 
 | `pydantic` | ≥ 2.0 | Schema validation |
 | `python-dotenv` | ≥ 1.0 | Load `.env` file |
 
----
 
-## Free Tier Limits (Gemini 1.5 Flash)
-
-| Limit | Value |
-|---|---|
-| Requests per minute | 15 |
-| Requests per day | 1,500 |
-| Tokens per minute | 1,000,000 |
-
-More than enough for development and demos.
